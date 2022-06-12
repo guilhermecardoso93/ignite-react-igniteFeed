@@ -12,6 +12,7 @@ export function App() {
       <div className={styles.wrapper}>
         <Sidebar />
         <Post />
+        
       </div>
     </>
   );
